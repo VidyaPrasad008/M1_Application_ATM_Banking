@@ -6,8 +6,8 @@
 |HLTP_1|Mark attendance|Implemented|
 |HLTP_2|Apply leave|Implemented|
 |HLTP_3|Track attendance|Implemented|
-|HLTP_3|Check weekly progress|Implemented|
-|HLTP_4|Edit student's information|Implemented|
+|HLTP_4|Check weekly progress|Implemented|
+|HLTP_5|Edit student's information|Implemented|
 
 # LOW level Test Plan
 
