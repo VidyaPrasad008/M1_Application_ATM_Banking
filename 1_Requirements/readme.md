@@ -53,7 +53,10 @@ The main objective of this project is to track the attendance and the weekly pro
 
 # HIGH level Requirements
 
-| Header |
+| Syntax | Description |
+| ———– | ———– |
+| Header | Title |
+| Paragraph | Text |
 
 
 
