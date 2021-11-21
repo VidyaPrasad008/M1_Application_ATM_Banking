@@ -53,7 +53,7 @@ The main objective of this project is to track the attendance and the weekly pro
 
 # HIGH level Requirements
 
-|ID|Description|Tables|
+|ID|Description|Status|
 |:-|:----------|:-----|
 |HLR_1|The user mark the attendance|Implemented|
 |HLR_2|The user can apply for leave|Implemented|
@@ -63,7 +63,7 @@ The main objective of this project is to track the attendance and the weekly pro
 
 # LOW level Requirements
 
-|ID|Description|Tables|
+|ID|Description|Status|
 |:-|:----------|:-----|
 |LLR_1|Input by the user|Implemented|
 |LLR_2|Exit the program|Implemented|
