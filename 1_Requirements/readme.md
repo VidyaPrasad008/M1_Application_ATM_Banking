@@ -61,6 +61,12 @@ The main objective of this project is to track the attendance and the weekly pro
 |HLR_3|The admin can check the user's weekly progress|Implemented|
 |HLR_4|The admin can edit student's information|Implemented|
 
+# LOW level Requirements
+
+|ID|Description|Tables|
+|:-|:----------|:-----|
+|LLR_1|Input by the user|Implemented|
+|LLR_2|Exit the program|Implemented|
 
 
 
