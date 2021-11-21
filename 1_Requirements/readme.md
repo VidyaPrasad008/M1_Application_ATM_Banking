@@ -55,6 +55,7 @@ The main objective of this project is to track the attendance and the weekly pro
 
 |ID|Description|Tables|
 |:-|:----------|:-----|
+|HLR_1|
 
 
 
