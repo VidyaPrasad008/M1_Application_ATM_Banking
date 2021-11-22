@@ -1,65 +1,70 @@
-# Requirements
+# Reqiurements
 
 # Introduction
-This is a project that is developed to calculate the students daily attendance in schools or colleges by the help of C program.
+
+This is a project that is developed to help people check their total balance, deposit and withdraw money easily. This is a project done by the help of C program.
 
 # Objective
-The main objective of this project is to track the attendance and the weekly progress of the students.
+
+The main objective of this project is to make banking easier and less time consuming. 
 
 # Features
-1.Student weekly/monthly progress
-2.View particular Student Attendance
-3.View Name of the Student
-4.Edit Attendance
-5.Exit
 
-# 4W's and 1H's
+1.Check total balance
+2.Deposit money
+3.Withdraw money
+
+# 4Ws and 1Hs
 
 # Why:
-1. To track the daily attendance of the studnets.
-2. To know the trend of students taking leaves.
+
+1. To save time from the traditional ways of banking
+2. It is fast and convenient
 
 # Where:
-1. This can be used in schools, and colleges to track students' attendance.
-2. It can be used in offices to track employee's attendance.
+
+1. This can be used in all the ATMs that are kept in public places
+
 
 # Who:
-1. It can be used by school and college management.
-2. It can be used by office admin for offices.
+
+1. It can be used by anyone who has a bank account
 
 # When:
-1. It can be used daily as attendance is a day to day managament system.
+
+1. It can be used 24*7 which is the major advantage
 
 # How:
-1. This is dependent on all the students in the schools and colleges, as attendance is to be calculated with everyone's status of being present to the institute or the organization.
+
+1. Indivduals who has a bank account, and knows how to perform 
+the actions can do this easily
 
 # SWOT Analysis
 
 # Strengths
-1. Easy attendance management for schools, colleges, and workplaces.
-2. Easy to track and check the history of each individuals.
+
+1. It is easy, fast and not time-consuming
+2. You need not depend on anyone unlike a traditional bank
 
 # Weakness
-1. Sometimes the server may not be reached properly.
-2. Only accessible through smartphones, laptops or computers.
-3. It does not work without internet.
+
+1. A simple error might create a huge loss
+2. Not everyone is educated on how to use this system
 
 # Opportunities
-1. It is not just limited to schools or colleges. It can be used in any organizations or institutes to track the attendance. 
-2. It can be used in shopping malls and super markets to track the employees attendance.
+
+1. The process is simple to learn and so every bank account holder can learn to access it
+2. It can be used in shopping malls, offices or any public places 
 
 # Threats
-1. A lot of attendance management systems/applications are already available in the market.
 
-# HIGH level Requirements
+1. A lot of advance in technology has come up like Internet banking, Gpay, Phonepe, Paytm etc., 
 
 |ID|Description|Status|
 |:-|:----------|:-----|
-|HLR_1|The user mark the attendance|Implemented|
-|HLR_2|The user can apply for leave|Implemented|
-|HLR_3|The user can track his attendance|Implemented|
-|HLR_4|The admin can check the user's weekly progress|Implemented|
-|HLR_5|The admin can edit student's information|Implemented|
+|HLR_1|The user can check the total balance |Implemented|
+|HLR_2|The user can deposit money|Implemented|
+|HLR_3|The user can withdraw money|Implemented|
 
 # LOW level Requirements
 
@@ -68,8 +73,3 @@ The main objective of this project is to track the attendance and the weekly pro
 |LLR_1|Input by the user|Implemented|
 |LLR_2|Exit the program|Implemented|
 
-
-
-
-
- 
