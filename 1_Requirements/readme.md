@@ -9,8 +9,8 @@ This is a project that is developed to help people check their total balance, de
 The main objective of this project is to make banking easier and less time consuming. 
 
 # Features
-
 1.Check total balance
+
 2.Deposit money
 3.Withdraw money
 
