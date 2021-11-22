@@ -12,6 +12,7 @@ The main objective of this project is to make banking easier and less time consu
 1.Check total balance
 
 2.Deposit money
+
 3.Withdraw money
 
 # 4Ws and 1Hs
