@@ -1,4 +1,13 @@
-
+/**
+ * @file main.c
+ * @author Vidya Prasad
+ * @brief Main
+ * @version 0.1
+ * @date 2021-11-17
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -251,7 +260,5 @@ Would you like to do another transaction:
 Your Selection:	4
 --------------Take your receipt!!!------------------
 -----Thank you for using ATM Banking Machine!!!-----
------Developed by Islam_Kamilov_in_C_Program!!!-----
 Program ended with exit code: 0
-
 */
