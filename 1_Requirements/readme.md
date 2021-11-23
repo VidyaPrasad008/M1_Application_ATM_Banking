@@ -71,6 +71,7 @@ the actions can do this easily
 
 |ID|Description|Status|
 |:-|:----------|:-----|
-|LLR_1|Input by the user|Implemented|
-|LLR_2|Exit the program|Implemented|
+|LLR_1|Check Balance|Implemented|
+|LLR_2|Deposit money|Implemented|
+|LLR_3|Withraw money|Implemented|
 
