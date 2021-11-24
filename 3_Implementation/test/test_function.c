@@ -9,7 +9,7 @@
  * 
  */
 #include "../unity/unity.h"
-#include "../inc/atm_banking.c" /* Name of the header file of your project */
+#include "../inc/atm_banking.h" /* Name of the header file of your project */
 
 /* These two lines are need to be set according to project name */
 #include "../inc/atm_banking.h"
