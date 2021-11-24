@@ -8,14 +8,13 @@
  * @copyright Copyright (c) 2021
  * 
  */
-
 #include "../unity/unity.h"
-#include "../inc/atmbanking_function.h" /* Name of the header file of your project */
+#include "../inc/atm_banking.c" /* Name of the header file of your project */
 
 /* These two lines are need to be set according to project name */
-#include "../inc/atmbanking_function.h"
+#include "../inc/atm_banking.h"
 
-#define PROJECT_NAME  "AtmBanking"
+#define PROJECT_NAME    "Atm"
 
 /* Prototype / Function Declaration */
 // Write all the function defined in the program.
