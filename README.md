@@ -1,6 +1,6 @@
 # M1_Application_ATM_Banking
 
-In this project, I developed a ATM Banking System using C Programming Language.
+In this project, I developed a ATM Banking System using C Programming Language.This is a project that is developed to help people check their total balance, deposit and withdraw money easily
 
 
 # Folder Structure
