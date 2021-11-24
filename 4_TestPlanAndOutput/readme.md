@@ -7,10 +7,9 @@
 |HLTP_3|withdraw money|Choice|Success|Success|Requirement Based|
 
 # LOW level Test Plan
-
-|ID|Description|Expected o/p|
-|:-|:----------|:-----|
-|LLTP_1|Input by the user|Implemented|
-|LLTP_2|Exit the program|Implemented|
-
+| ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
+|---|---|---|---|---|---|
+|LLTP_1|Total balance|Implemented|| |Requirement based|
+|LLTP_2|Deposit money|Implemented|| |Requirement Based|
+|LLTP_3|Withdraw money money|Implemented|| |Requirement Based|
 
