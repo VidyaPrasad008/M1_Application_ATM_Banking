@@ -1,10 +1,10 @@
 # HIGH Level Test Plan
 
-|ID|Description|Expected o/p|
-|:-|:----------|:-----|
-|HLTP_1|check total balance |Implemented|
-|HLTP_2|deposit money|Implemented|
-|HLTP_3|withdraw money|Implemented|
+| ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
+|---|---|---|---|---|---|
+|HLTP_1|check total balance |Choice|Success|Success|Requirement Based|
+|HLTP_2|deposit money|Choice|Success|Success|Requirement Based|
+|HLTP_3|withdraw money|Choice|Success|Success|Requirement Based|
 
 # LOW level Test Plan
 
