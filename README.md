@@ -2,6 +2,9 @@
 
 In this project, I developed a ATM Banking System using C Programming Language.This is a project that is developed to help people check their total balance, deposit and withdraw money easily.
 
+| Build | Code Analysis - Static & Dynamaic | Unity | Code Quality | Git Inspector |
+|---|---|---|---|---|
+
 
 # Folder Structure
 | Folder   |      Description     |  
