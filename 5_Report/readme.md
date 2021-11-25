@@ -63,6 +63,7 @@ the actions can do this easily
 
 1. A lot of advance in technology has come up like Internet banking, Gpay, Phonepe, Paytm etc., 
 
+# HIGH level Requirements
 |ID|Description|Status|
 |:-|:----------|:-----|
 |HLR_1|The user can check the total balance |Implemented|
