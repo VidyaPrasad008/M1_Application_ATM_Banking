@@ -1,6 +1,6 @@
 # Report
 
-# Reqiurements
+# Requirements
 
 # Introduction
 
