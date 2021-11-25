@@ -37,8 +37,7 @@ The main objective of this project is to make banking easier and less time consu
 
 # How:
 
-1. Indivduals who has a bank account, and knows how to perform .
-the actions can do this easily
+1. Indivduals who has a bank account, and knows how to perform the actions can do this easily.
 
 # SWOT Analysis
 
