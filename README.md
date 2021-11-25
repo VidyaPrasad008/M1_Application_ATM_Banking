@@ -17,3 +17,14 @@ In this project, I developed a ATM Banking System using C Programming Language.T
 | 4_TestPlan |  Documents with test plans |
 | 5_Report |    Documentation of whole project  | 
 | 6_Images |    All the images of this project  |
+
+# Contributors List and Summary
+| Ps no. | Name | Features | Issues raised | Issues resolved | No test cases | Test case Pass |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **_40020555_** | *Vidya Prasad* | *F1,F2,F3* | 1 | 1 | 8 | 8 |
+
+| No | Features |
+| ---- | ---- |
+| **_F1_** | Check Balance |
+| **_F2_** | Withdraw Money | 
+| **_F3_** | Deposit Money |
