@@ -77,6 +77,13 @@ The main objective of this project is to make banking easier and less time consu
 |LLR_2|Deposit money|Implemented|
 |LLR_3|Withraw money|Implemented|
 
+# Behavior Diagram
+
+![Untitled-Diagram-_1_](https://user-images.githubusercontent.com/94363214/143445605-6f7516d0-c1bc-439b-89f1-c6342bcd5abb.png)
+
+# Structural Diagram
+![chart](https://user-images.githubusercontent.com/94363214/143445634-575d267a-6b3a-42ee-a818-dbe0612a5191.jpg)
+
 
 # Folder Structure
 | Folder   |      Description     |  
